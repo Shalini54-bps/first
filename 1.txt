@@ -1,0 +1,7 @@
+scedule
+
+branching
+merging
+remote
+tagging
+raising PR
